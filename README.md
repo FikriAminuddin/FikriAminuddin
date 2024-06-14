@@ -33,6 +33,11 @@ I'm Muhammad Fikri Aminuddin bin Fauzi, a Web Developer from Malaysia.
   <img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=sql&logoColor=white" alt="SQL"/>
 </p>
 
+## 📜 My Portfolio Website
+
+- [**Portfolio**](https://fikriaminuddin.github.io)
+
+
 ## 📜 My Latest Posts
 
 - [**Tic-Tac-Toe**](https://fikriaminuddin.github.io/Tic-tac-Toe/)  
